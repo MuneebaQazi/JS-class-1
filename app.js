@@ -1,1 +1,5 @@
-alert("Error! Please enter your password")
+alert("Error! Please enter a valid password.")
+alert("Welcome to JS Land...\n Happy Coding!")
+alert("Welcome to JS Land...")
+alert("Happy Coding!\n Prevent this page from creating additional dialogs.")
+alert("Hello...I canrun JS throughtmy web brower's console")
