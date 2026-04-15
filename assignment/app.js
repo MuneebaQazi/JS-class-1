@@ -1,4 +1,6 @@
-// question:1
+// question # 1
+// alert("welcome")
+// question:2
 // alert("Error! Please enter a valid password.")
 // question2
 // alert("Welcome to JS Land...\n Happy Coding!")
