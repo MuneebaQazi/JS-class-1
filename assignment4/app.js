@@ -3,11 +3,11 @@
 
 // Question # 2
 // legal Variables Name.
-// var name;        // simple variable, usually text store karta hai
-// var user1;       // number ke sath letter allowed hai (but start letter se hota hai)
-// var myVariable;  // camelCase style, commonly use hota hai
+// var name;        // letter sa start
+// var _age;       // underscore allowed hai
 // var $price;      // $ sign allowed hai 
-// var total_amount;// underscore (_) allowed hai,
+// var user1;      number beech mein ma allowed ha 
+
 // illegal variables Names.
 // var 1name;      number se start
 // var user name;  space hai
@@ -19,12 +19,8 @@
 
 // Queston # 3
 
-// document.write("<strong>A heading stating Rules for naming JS variables</strong><br><br>");
-
-// document.write("Variables names can only contain numbers, $ and _. For example: $my_1stVariable<br><br>");
-
-// document.write("Variables must begin with a letter, $ or _. For example: $name, _name or name<br><br>");
-
-// document.write("Variables names are case sensitive<br><br>");
-
+// document.write("<h1> Rules for naming JS variables</h1>");
+// document.write("Variable names can only contain letters, numbers. $ and _. For example $my_1stVaraibles <br>");
+// document.write("Variables must begin with a letter , $ or _. For examplee $name, _name or name <br>");
+// document.write("Variable names are case sentitive<br>");
 // document.write("Variables names should not be JS keywords");

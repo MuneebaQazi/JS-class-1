@@ -1,11 +1,18 @@
 // Question # 1
-// alert("I am 15 years old.");
+// let age = 15;
+// alert( "I am " + age + " years old." );
 
 // Question # 2 
-// alert("You have visited this site 14 times");
+// let visitCount = 14
+// alert("You have visited this site " + visitCount + " times");
 
 // Question # 3
-// alert("My birthday year is 2010\nData type of my ddeclared variable is number");
+// let birthYear = 2010;
+// document.write("My birth Year is " + birthYear + "<br>");
+// document.write("Data type of my declared variable " + typeof birthYear);
 
 // Question # 4
-// alert("John Doe ordered 5 T-Shirt(s) on XYZ Clothing Store.");
+// let visitorName = "John Doe";
+// let productTitle = "T-shirt";
+// let quantity = 5;
+// document.write(visitorName + "ordered" + quantity + "" + productTitle + "(s) on XYZ Clothing store");
